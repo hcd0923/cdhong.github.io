@@ -17,6 +17,7 @@ lang: en-US
 title: My Awesome Site
 email:
 description:
+remote_theme : mmistakes/minimal-mistakes
 baseurl: ""
 url: "https://cdhong.github.io"
 author:
