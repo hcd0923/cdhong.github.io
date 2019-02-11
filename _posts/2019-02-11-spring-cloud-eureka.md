@@ -1,6 +1,6 @@
 ---
 title: "Spring Cloud Eureka!"
-date: 2018-02-12 00:00:00 -0400
+date: 2018-02-12 00:00:00 +0800
 categories: Spring Cloud
 ---
 
