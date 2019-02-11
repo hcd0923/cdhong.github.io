@@ -1,7 +1,7 @@
 ---
 title: "Spring Cloud Eureka!"
 date: 2018-02-12 00:00:00 +0800
-categories: Spring Cloud
+categories: jekyll update
 ---
 
 Spring Cloud Netflex
